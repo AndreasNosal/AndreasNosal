@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreasNosal
 - 👀 I’m interested in C/C++.
-- 🌱 I’m currently learning basics of C++ language.
+- 🌱 I’m currently learning basics programming languages.
 - 💞️ I’m looking to collaborate on projects...
 - 📫 How to reach me adko.nosal@gmail.com
 
